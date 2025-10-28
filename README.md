@@ -49,4 +49,4 @@ For the newer source with kernelsu-next visit:
 
 ## Stay Updated  
 For **Kaiju Kernel** announcements and releases:  
-[**Join the Telegram Channel**](https://t.me/kaijukernel)
+[**Join the Telegram Channel**](https://t.me/kernelkaiju)
